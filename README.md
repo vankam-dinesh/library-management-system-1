@@ -6,7 +6,7 @@ A web-based library management system designed to manage books, users, and daily
 
 This project is a Single Page Application (SPA) built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). [cite_start]It replaces manual library methods with a centralized digital database to track inventory and loans[cite: 30].
 
-### Key Features (Modules)
+### Key Features (Modules)                                                   
 The system is divided into 5 distinct modules, each with full **CRUD** (Create, Read, Update, Delete) capabilities:
 
 1.  **👥 Member / Student Management:** Register, view, update, and deactivate student profiles.
