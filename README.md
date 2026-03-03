@@ -1,6 +1,6 @@
   # 📚 Library Management System (MERN Stack)
 
-A web-based library management system designed to manage books, users, and daily library operations efficiently. [cite_start]This system helps librarians organize book records, issue and return books, and generate useful reports[cite: 4, 5].
+A web-based library management system designed to manage books, users, and daily library operations efficiently. [cite_start]This system helps librarians organize book records, issue and return books, and generate useful reports[cite: 4, 5].                                                         
                                            
 ## 🚀 Project Overview                                                                                                                      
                                                                             
