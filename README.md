@@ -9,7 +9,7 @@ This project is a Single Page Application (SPA) built using the **MERN Stack** (
 ### Key Features (Modules)                                                                              
 The system is divided into 5 distinct modules, each with full **CRUD** (Create, Read, Update, Delete) capabilities:
 
-1.  **👥 Member / Student Management:** Register, view, update, and deactivate student profiles.
+1.  **👥 Member / Student Management:** Register, view, update, and deactivate student profiles.                                 
 2.  **📦 Supplier & Donation Management:** Manage book suppliers and donation records.
 3.  **📚 Book Inventory Management:** Cataloging system to add, search, and manage book stock.
 4.  **🔄 Circulation Management:** Handle book issuing (loans) and returns (transactions).
