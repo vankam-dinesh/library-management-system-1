@@ -11,7 +11,7 @@ The system is divided into 5 distinct modules, each with full **CRUD** (Create, 
 
 1.  **👥 Member / Student Management:** Register, view, update, and deactivate student profiles.                                 
 2.  **📦 Supplier & Donation Management:** Manage book suppliers and donation records.
-3.  **📚 Book Inventory Management:** Cataloging system to add, search, and manage book stock.
+3.  **📚 Book Inventory Management:** Cataloging system to add, search, and manage book stock.                                        
 4.  **🔄 Circulation Management:** Handle book issuing (loans) and returns (transactions).
 5.  **📢 Announcement Management:** Post and manage library news and notices on the dashboard.
 
